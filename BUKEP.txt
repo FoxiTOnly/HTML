@@ -1,0 +1,1 @@
+git config http.proxy http://Логин:Gfhjkm@tmg:8080
